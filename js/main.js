@@ -1,8 +1,8 @@
 /*----- constants -----*/
 const WORDS = [
-    'ARRAY', 'FUNCTION', 'BINARY', 'VARIABLE',
-    'BOOLEAN', 'REACT', 'COMPUTER SCIENCE', 
-    'TERMINAL', 'EVENTS'
+    'BUFFALO', 'JAWBREAKER', 'MICROWAVE', 'MATRIX',
+    'JUMBO', 'JACKPOT', 'COMPUTER SCIENCE', 
+    'RHYTHM', 'AWKWARD'
 ];
 const PANEL_WIDTH = 15;
 const FATAL_NUM_GUESSES = 6;
